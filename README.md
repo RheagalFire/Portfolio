@@ -6,7 +6,7 @@ Portfolio to demonstrate Data-Science Projects
 
 ## Projects
 
-<img align='left' width="250" height="150" src="/images/doctor-clinic.jpg"> **[AskDoc](https://github.com/noobknights/askdoc)**
+<img align='left' width="250" height="150" src="./images/doctor-clinic.jpg"> **[AskDoc](https://github.com/noobknights/askdoc)**
 
 This project was developed as a hackathon project, implemented a vote classifier(using Algorithms:) based upon hard voting which classifies user's query into most pobable disease.The model has been deployed in Flask.
 
