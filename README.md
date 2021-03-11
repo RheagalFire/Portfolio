@@ -11,6 +11,7 @@ Portfolio to demonstrate Data-Science Projects
 This project was developed as a hackathon project, implemented a vote classifier(using Algorithms:SVM,Random Forest,Gradient Boosting,Logistic Regression) based upon hard voting which classifies user's query into most pobable disease.The model has been deployed in Flask.
 <br>
 <br>
+<br>
 <img align='left' width="250" height="150" src="./images/movie.gif" style="margin-right:10px"> **[Movie Recommendation App](https://github.com/RheagalFire/Recommeder_Systems)**
 
 This is a deployed app which suggests movies based on the similarity of their content. The similarity metric that was used is cosine similarity.
