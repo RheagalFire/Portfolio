@@ -18,6 +18,14 @@ This is a deployed app which suggests movies based on the similarity of thier co
 <br>
 <br>
 <br>
+<br>
+<img align='left' width="250" height="150" src="./images/book.jpg" style="margin-right:10px"> **[Book Recommendation Engine](https://github.com/RheagalFire/Recommeder_Systems)**
+
+Built a book recommendation engine using collaborative filtering technique with k-means clustering.The similarity in taste of two users is calculated based on the similarity in the rating history of the users.
+<br>
+<br>
+<br>
+
 
 
 
