@@ -12,4 +12,7 @@ This project was developed as a hackathon project, implemented a vote classifier
 
 #
 
+![](/images/doctor-clinic.jpg)
+
+
 
