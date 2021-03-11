@@ -33,7 +33,13 @@ With the help of transfer learning trained InceptionV3 model to classify 26 diff
 <br>
 <br>
 <br>
+<img align='left' width="250" height="150" src="./images/music.jpg" style="margin-right:10px"> **[Emosong](https://github.com/noobknights/emosong)**
 
+Worked in a team of 3 members to develop a website that based on user’s emotion detected through live image capturing suggests him songs playlist,suitable accordingly.
+<br>
+<br>
+<br>
+<br>
 
 
 
