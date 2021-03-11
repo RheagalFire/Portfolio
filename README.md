@@ -25,6 +25,7 @@ Built a book recommendation engine using collaborative filtering technique with 
 <br>
 <br>
 <br>
+<br>
 <img align='left' width="250" height="150" src="./images/gesture.gif" style="margin-right:10px"> **[Sign Language Detection](https://github.com/RheagalFire/Sign-Language-Detector)**
 
 With the help of transfer learning trained InceptionV3 model to classify 26 different gestures mapping 26 Alphabets of English Language.
