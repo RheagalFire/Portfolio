@@ -14,7 +14,7 @@ This project was developed as a hackathon project, implemented a vote classifier
 <br>
 <br>
 <br>
-<img align='left' width="250" height="150" src="./images/movie.gif" style="margin-right:10px"> **[Movie Recommendation App](https://github.com/RheagalFire/Recommeder_Systems)**
+<img align='left' width="250" height="150" src="./images/movie.gif" style="margin-right:10px"> **[Movie Recommendation App](https://github.com/RheagalFire/Content_Based_Filtering)**
 
 This is a deployed app which suggests movies based on the similarity of their content. The similarity metric that was used is cosine similarity.
 <br>
