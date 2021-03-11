@@ -10,7 +10,7 @@ Portfolio to demonstrate Data-Science Projects
 
 This project was developed as a hackathon project, implemented a vote classifier(using Algorithms:) based upon hard voting which classifies user's query into most pobable disease.The model has been deployed in Flask.
 
-# 
+
 
 <img align='left' width="250" height="150" src="./images/movie.gif"> **[Movie Recommendation App](https://github.com/RheagalFire/Recommeder_Systems)**
 
