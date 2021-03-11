@@ -40,6 +40,27 @@ Worked in a team of 3 members to develop a website that based on user’s emotio
 <br>
 <br>
 <br>
+<img align='left' width="250" height="150" src="./images/movie.jpg" style="margin-right:10px"> **[Sentiment Analysis of Movie Reviews](https://github.com/RheagalFire/Sentiment-Analysis-of-Movie-Reviews)**
+
+Using several models made a vote classifier based on hard voting in which predictions are the majority vote of contributing models.
+<br>
+<br>
+<br>
+<br>
+<img align='left' width="250" height="150" src="./images/GANS.gif" style="margin-right:10px"> **[Image generation through GANS](https://github.com/RheagalFire/Sentiment-Analysis-of-Movie-Reviews)**
+
+Built a simple Generative Adversarial Network to generate image of digit 5 from noise distribution.
+<br>
+<br>
+<br>
+<br>
+
+
+
+
+
+
+
 
 
 
