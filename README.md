@@ -8,7 +8,7 @@ Portfolio to demonstrate Data-Science Projects
 
 <img align='left' width="250" height="150" src="./images/doctor-clinic.jpg" style="margin-right:10px"> **[AskDoc](https://github.com/noobknights/askdoc)**
 
-This project was developed as a hackathon project, implemented a vote classifier(using Algorithms:SVM,Random Forest,Gradient Boosting,Logistic Regression) based upon hard voting which classifies user's query into most pobable disease.The model has been deployed in Flask.
+This project was developed as a hackathon project, implemented a vote classifier(using Algorithms:SVM,Random Forest,Gradient Boosting,Logistic Regression) based upon hard voting which classifies user's query into most pobable disease.
 <br>
 <br>
 <br>
