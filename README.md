@@ -6,15 +6,18 @@ Portfolio to demonstrate Data-Science Projects
 
 ## Projects
 
-<img align='left' width="250" height="150" src="./images/doctor-clinic.jpg"> **<center>[AskDoc](https://github.com/noobknights/askdoc)</center>**
+<img align='left' width="250" height="150" src="./images/doctor-clinic.jpg"> <center>**[AskDoc](https://github.com/noobknights/askdoc)**</center>
 
 This project was developed as a hackathon project, implemented a vote classifier(using Algorithms:) based upon hard voting which classifies user's query into most pobable disease.The model has been deployed in Flask.
 <br>
 <br>
 <br>
-<img align='left' width="250" height="150" src="./images/movie.gif"> **[Movie Recommendation App](https://github.com/RheagalFire/Recommeder_Systems)**
+<img align='left' width="250" height="150" src="./images/movie.gif"> <center>**[Movie Recommendation App](https://github.com/RheagalFire/Recommeder_Systems)**</center>
 
-This is a deployed app which suggests movies based on the similarity of thier content. The similarity metric that was used is cosine similarity.  
+This is a deployed app which suggests movies based on the similarity of thier content. The similarity metric that was used is cosine similarity.
+<br>
+<br>
+<br>
 
 
 
