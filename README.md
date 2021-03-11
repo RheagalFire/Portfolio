@@ -47,13 +47,29 @@ Using several models made a vote classifier based on hard voting in which predic
 <br>
 <br>
 <br>
-<img align='left' width="250" height="150" src="./images/GANS.gif" style="margin-right:10px"> **[Image generation through GANS](https://github.com/RheagalFire/Sentiment-Analysis-of-Movie-Reviews)**
+<img align='left' width="250" height="150" src="./images/GANS_2.gif" style="margin-right:10px"> **[Image generation through GANS](https://github.com/RheagalFire/Sentiment-Analysis-of-Movie-Reviews)**
 
 Built a simple Generative Adversarial Network to generate image of digit 5 from noise distribution.
 <br>
 <br>
 <br>
 <br>
+<img align='left' width="250" height="150" src="./images/speech.png" style="margin-right:10px"> **[Part of Speech Tagging](https://github.com/RheagalFire/Sentiment-Analysis-of-Movie-Reviews)**
+
+Trained a LSTM neural network with Word2vec Embeddings of 300 dimensions to classify words into thier parts of speech.
+<br>
+<br>
+<br>
+<br>
+<img align='left' width="250" height="150" src="./images/high_2.png" style="margin-right:10px"> **[Highlightem](https://github.com/RheagalFire/Sentiment-Analysis-of-Movie-Reviews)**
+
+It is a chrome extension that highlights most relevant items based on your search.Similarity between the items were found using cosine metrics.Currently compatible on Platforms like Amazon,Flipkart,Bigbasket
+<br>
+<br>
+<br>
+<br>
+
+
 
 
 
