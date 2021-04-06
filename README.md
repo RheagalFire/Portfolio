@@ -64,6 +64,13 @@ Trained a LSTM neural network with Word2vec Embeddings of 300 dimensions to clas
 <br>
 <br>
 <br>
+<img align='left' width="250" height="150" src="./images/Autoencoders.gif" style="margin-right:10px"> **[Hello-World Autoencoders](https://github.com/RheagalFire/Hello-World-Autoencoders)**
+
+Denoising MNIST Data(Digit) using Convolutional Autoencoders. The architecture has been implemented in Tensorflow keras. 
+<br>
+<br>
+<br>
+<br>
 <img align='left' width="250" height="150" src="./images/high_2.png" style="margin-right:10px"> **[Highlightem](https://github.com/noobknights/highlightem)**
 
 It is a chrome extension that highlights most relevant items based on your search.Similarity between the items were found using cosine metrics.Currently compatible on Platforms like Amazon,Flipkart,Bigbasket
@@ -71,8 +78,9 @@ It is a chrome extension that highlights most relevant items based on your searc
 <br>
 <br>
 <br>
+<img align='left' width="250" height="150" src="./images/hand-d.gif" style="margin-right:10px"> **[Volume-Control](https://github.com/RheagalFire/Volume-Control)**
 
-
+It is a computer vision project in which using opencv module Landmark Detection for hand has been implemented which inturn has been used to control the master volume of PC.  
 
 
 
