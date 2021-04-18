@@ -8,6 +8,12 @@ Portfolio to demonstrate Data-Science Projects
 
 ## Projects
 
+<img align='left' width="250" height="150" src="https://github.com/RheagalFire/Malaria_Detection/blob/master/Results/Infected.JPG" style="margin-right:10px"> **[Malaria Detection](https://github.com/RheagalFire/Malaria_Detection)**
+
+This project demostrates the use of Transfer Learning using VGG Network to classify whether the cell is infected or not.The app was made on Streamlit and has been deployed as a docker wrapper on cloud using two step deployment process.
+<br>
+<br>
+<br>
 <img align='left' width="250" height="150" src="./images/doctor-clinic.jpg" style="margin-right:10px"> **[AskDoc](https://github.com/noobknights/askdoc)**
 
 This project was developed as a hackathon project, implemented a vote classifier(using Algorithms:SVM,Random Forest,Gradient Boosting,Logistic Regression) based upon hard voting which classifies user's query into most pobable disease.
